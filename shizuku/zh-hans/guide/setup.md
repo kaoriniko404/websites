@@ -129,6 +129,8 @@ adb shell sh /sdcard/Android/data/moe.shizuku.privileged.api/start.sh
 
 在“开发者选项”中关闭“权限监控”。
 
+已知ColorOS17系统中，应设置系统为“英文”语言后，进入“开发者选项”，开启“Disable system optimization”后可生效。
+
 #### Flyme（魅族）
 
 在“开发者选项”中关闭“Flyme 支付保护”。
